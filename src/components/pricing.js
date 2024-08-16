@@ -9,7 +9,7 @@ export function Pricing() {
   const plans = [
     {
       name: "Basic",
-      price: "$2.46",
+      price: "$2.50",
       discount: "15% off",
       frequency: "/mo",
       offers: Basic,
