@@ -18,7 +18,9 @@ export function Welcome() {
               Energistically predominate prospective experiences with strategic
               initiatives.
             </p>
-            <button className="btn">Get Started</button>
+            <button className="btn"
+            onClick={()=>{alert("Do you want to continue?")
+            }}>Get Started</button>
           </div>
           <div className="image-container">
             <img className="threepics" src={threepics} alt="Three Pics" />

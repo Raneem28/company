@@ -195,7 +195,10 @@ export function NavTabs({ homeRef, AboutRef, ServicesRef,OurTeamRef,contactRef }
                 Contact
               </li>
         <li>
-          <button className="started">Get Started</button>
+          <button className="started"
+          onClick={()=>{alert("Do you want to continue?")
+          }}
+          >Get Started</button>
         </li>
       </ul>
     </div>
