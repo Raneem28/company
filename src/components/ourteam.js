@@ -51,7 +51,7 @@ export function Team() {
     return (
         <div className="ourteam" style={{ textAlign: "center", padding: "20px" , fontWeight:"700" , fontSize:"48px" ,lineHeight:"0px" , paddingBottom:"15px"}}>
             <div className="tea">
-                <p style={{color: "#A0A4A8" , fontWeight:"400" , fontSize:"16px" , textAlign:"center" , lineHeight:"24px"}}>Our Team</p>
+              
                 <h1>Our Team</h1>
             </div>
             <div><p className="teamheading">Our Team</p></div>

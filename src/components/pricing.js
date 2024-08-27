@@ -39,7 +39,6 @@ export function Pricing() {
 
   return (
     <div>
-      <p className="pricing-para" style={{ paddingLeft: "65px", color: "#A0A4A8" }}>Pricing</p>
       <h1
         className="heading"
         style={{
