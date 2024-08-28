@@ -26,9 +26,7 @@ export function Testimonials(){
     return(
         <div className="heads" style={{backgroundColor:"#FEF3F3" , paddingBottom:"15px"}}>
             <div className="heading-test" style={{width:"746px" , height:"208.44px" , left:"12px" , paddingBottom:"30px"}}>
-                <p
-                style={{paddingTop:"5px", color:"#A0A4A8" , fontWeight:"500" , fontSize:"16px" , lineHeight: "19px" , letterSpacing:"0.32px" , paddingLeft:"65px"}}
-                >Testimonials</p>
+               
                 <h1
                 style={{fontWeight:"700" , fontSize:"48px" , lineHeight:"58px" , letterSpacing:"0.96px" , color:"25282B", paddingLeft:"65px"}}
                 >Customers Talk About Us!</h1>
